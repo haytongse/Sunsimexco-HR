@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267855446950",
+    "project_id": "hrd-app-f31d2",
+    "storage_bucket": "hrd-app-f31d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267855446950:android:3ae22f10865f9002804567",
+        "android_client_info": {
+          "package_name": "com.app.hrd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wzL7sY2ckEjFArGm-V95mjKG_ONr6TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
